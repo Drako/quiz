@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quiz">Quiz</string>
+    <string name="app_name">Quiz</string>
+    <string name="right">Richtig!</string>
+    <string name="wrong">Falsch!</string>
+</resources>
